@@ -152,7 +152,7 @@ class _CreateEventPageWidgetState extends State<CreateEventPageWidget> {
 
                       final eventsRecordData = createEventsRecordData(
                         name: name,
-                        date: date,
+                        date: Timestamp.fromDate(date),
                         creator: creator,
                       );
 

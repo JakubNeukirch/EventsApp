@@ -1,3 +1,5 @@
+import 'package:page_transition/page_transition.dart';
+
 import '../auth/auth_util.dart';
 import '../flutter_flow/flutter_flow_theme.dart';
 import '../flutter_flow/flutter_flow_util.dart';
